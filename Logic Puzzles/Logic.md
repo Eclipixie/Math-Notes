@@ -9,7 +9,7 @@ Statement that can be assigned a "truth value" (either true or false).
 
 ### Operators
 
-* Negation: $\sim P$
+* Negation: $\lnot P$
 	* Not $P$
 	* It is false that $P$
 * Conjunction: $P \land Q$
@@ -27,3 +27,7 @@ Statement that can be assigned a "truth value" (either true or false).
 
 * Innermost bracket first
 * Order is $\sim$, $\land$, $\lor$, $\Rightarrow$, $\Leftrightarrow$
+
+### Rules
+
+The [[Rules of Inference]] and [[Rules of Replacement]] can be used to change logical expressions similarly to mathematical ones.
