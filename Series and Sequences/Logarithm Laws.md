@@ -1,5 +1,3 @@
-# Logarithm Laws
-
 $$x=\log_a{y}$$
 
 $$\therefore y=a^x$$

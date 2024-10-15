@@ -1,5 +1,3 @@
-# Arithmetic Series
-
 [[Series]], [[Sigma Notation]]
 
 The sum of ${u_n}$ is $S_n$. It can be defined as

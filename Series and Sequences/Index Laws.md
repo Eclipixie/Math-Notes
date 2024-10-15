@@ -1,5 +1,3 @@
-# Index Laws
-
 ## Basic Laws
 
 $$a^m \cdot a^n=a^{m+n}$$

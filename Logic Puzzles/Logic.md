@@ -1,5 +1,3 @@
-# Logic
-
 ## Propositional
 
 Statement that can be assigned a "truth value" (either true or false).

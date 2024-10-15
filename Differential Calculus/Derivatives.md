@@ -1,5 +1,3 @@
-# Derivatives
-
 The gradient of a tangent to a function at a point can be found with:
 
 $$m=\frac{\Delta y}{\Delta x}=\frac{y_1-y_2}{x_1-x_2}$$

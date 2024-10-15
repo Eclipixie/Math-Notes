@@ -1,5 +1,3 @@
-# Derivation Rules
-
 ## Chain Rule
 
 Used when there is a function of a function, e.g.

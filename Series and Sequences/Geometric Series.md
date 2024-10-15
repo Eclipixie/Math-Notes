@@ -1,5 +1,3 @@
-# Geometric Series
-
 [[Series]], [[Sigma Notation]]
 
 A geometric series $\{u_n\}$ can be defined as
